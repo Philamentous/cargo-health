@@ -5,6 +5,7 @@ edition = "2021"
 license = "MIT OR Apache-2.0"
 description = "A cargo subcommand that scans your dependency tree and reports maintenance health"
 readme = "README.md"
+repository = "https://github.com/Philamentous/cargo-health"
 
 [[bin]]
 name = "cargo-health"
